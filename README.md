@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [@Lizhecheng02](https://github.com/Lizhecheng02).
 - 👓 My primary interest lies in Natural Language Processing (NLP) and Vision-Language Models (VLMs).
-- 💻 An NLP researcher mentored by Prof. [Yiwei Wang](https://wangywust.github.io/), Prof. [Yujun Cai](https://vanoracai.github.io/) and other esteemed professors & a **Kaggle Competition Master** primarily focused on various NLP/ML competitions.
+- 💻 A researcher mentored by Prof. [Yiwei Wang](https://wangywust.github.io/), Prof. [Yujun Cai](https://vanoracai.github.io/) and other esteemed professors & a **Kaggle Competition Master** primarily focused on various NLP/ML competitions.
 - 🌱 I’m currently pursuing a Master’s degree in Computer Science at the University of California, San Diego.
 - 📫 Feel free to reach out to me at [zhl186@ucsd.edu](mailto:zhl186@ucsd.edu).
